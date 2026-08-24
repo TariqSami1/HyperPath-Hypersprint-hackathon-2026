@@ -32,20 +32,19 @@ Instead of sifting through static lists or cluttered search results, HyperPath t
 
 2. Install dependencies:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+
 
 3. Configure Environment:
-Create a .env file in the root directory:
+   Create a .env file in the root directory:
 
-Code snippet
-
-VITE_API_KEY=your_geoapify_api_key
+   Code snippet:
+   ```bash
+   VITE_API_KEY=your_geoapify_api_key
 
 4. Start the app:
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
 
 Built by Mohd Tariq Sami & Bhavya Gupta.

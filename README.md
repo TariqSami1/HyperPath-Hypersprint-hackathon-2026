@@ -34,15 +34,22 @@ Instead of sifting through static lists or cluttered search results, HyperPath t
 
 Install dependencies:
 
-Bash
+```bash
 npm install
+```
+
+
+
 Configure Environment:
 Create a .env file in the root directory:
 
 Code snippet
+
 VITE_API_KEY=your_geoapify_api_key
+
 Start the app:
 
-Bash
+```bash
 npm run dev
+```
 Built by Mohd Tariq Sami & Bhavya Gupta.

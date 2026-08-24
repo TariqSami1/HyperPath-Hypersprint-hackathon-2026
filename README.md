@@ -30,26 +30,22 @@ Instead of sifting through static lists or cluttered search results, HyperPath t
    git clone https://github.com/TariqSami1/HyperPath-Hypersprint-hackathon-2026.git
    cd HyperPath-Hypersprint-hackathon-2026
 
-
-
-Install dependencies:
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-
-
-Configure Environment:
+3. Configure Environment:
 Create a .env file in the root directory:
 
 Code snippet
 
 VITE_API_KEY=your_geoapify_api_key
 
-Start the app:
-
+4. Start the app:
 ```bash
 npm run dev
 ```
+
 Built by Mohd Tariq Sami & Bhavya Gupta.

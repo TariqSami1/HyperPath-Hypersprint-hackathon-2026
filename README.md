@@ -1,6 +1,6 @@
-# HyperPath 
-
-A lightweight, plug-and-play React component built for the **HyperSprint Hackathon** to make exploring destinations simple and intuitive.
+ # HyperPath 
+ 
+  A lightweight, plug-and-play React component built for the **HyperSprint Hackathon** to make exploring destinations simple and intuitive.
 
 Instead of sifting through static lists or cluttered search results, HyperPath takes city coordinates and instantly curates notable sights—from historic spots and museums to scenic parks.
 
